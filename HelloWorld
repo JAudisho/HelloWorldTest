@@ -1,4 +1,4 @@
-echo "# HelloWorld"
+echo "# HelloWorld" README.md
 get init
 git add READ.method
 git commit -m "CSI-2300 Lab3"
